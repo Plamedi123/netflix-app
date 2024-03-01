@@ -44,6 +44,3 @@ flutter run --release
 <a href="https://flutter.dev/" target="_blank"><img alt="Flutter" width="300px" src="https://user-images.githubusercontent.com/9529847/200143348-055a2186-8019-43a1-8efc-39d7ffd888ba.svg" /></a>
 <a href="https://netflix.com/" target="_blank"><img alt="Netflix" width="300px" src="https://user-images.githubusercontent.com/9529847/200143140-67eec42b-fada-4c48-8183-6e3cd650a674.png" /></a>
 </section>
-
-# Licence
-flutter_netflix is Licenced under the [MIT Licence](https://github.com/echonox/main/LICENSE)
